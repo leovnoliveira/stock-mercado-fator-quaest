@@ -20,8 +20,8 @@ Aplicação Streamlit para visualização e análise de taxas DI Futuro da B3.
 ### 1. Clone ou faça download dos arquivos
 
 ```bash
-git clone <seu-repositorio>
-cd <diretorio-do-projeto>
+git clone git@github.com:leovnoliveira/stock-mercado-fator-quaest.git
+cd stock-mercado-fator-quaest
 ```
 
 ### 2. Crie um ambiente virtual (recomendado)
