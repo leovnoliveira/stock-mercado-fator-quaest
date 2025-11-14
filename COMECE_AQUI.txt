@@ -1,0 +1,123 @@
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║              📊 MONITOR DI FUTURO - COMECE AQUI               ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+
+🎯 BEM-VINDO!
+
+Este projeto é uma aplicação web para visualizar taxas DI Futuro da B3.
+
+═══════════════════════════════════════════════════════════════════
+
+📚 DOCUMENTAÇÃO - Por onde começar?
+
+┌─────────────────────────────────────────────────────────────────┐
+│ 1️⃣  NUNCA USEI?                                                 │
+│    → Abra: INDEX.md (mapa completo)                            │
+│    → Depois: QUICKSTART.md (teste em 5 min)                    │
+├─────────────────────────────────────────────────────────────────┤
+│ 2️⃣  QUERO FAZER DEPLOY GRATUITO?                                │
+│    → Abra: TUTORIAL_STREAMLIT_CLOUD.md                         │
+│    → 100% gratuito, 2 minutos de setup                         │
+├─────────────────────────────────────────────────────────────────┤
+│ 3️⃣  PRECISO APRESENTAR PARA GESTÃO?                             │
+│    → Abra: RESUMO_EXECUTIVO.md                                 │
+│    → Resumo com comparações e ROI                              │
+├─────────────────────────────────────────────────────────────────┤
+│ 4️⃣  VOU USAR PARA ANÁLISE?                                      │
+│    → Abra: CASOS_DE_USO.md                                     │
+│    → 10 exemplos práticos de análise                           │
+├─────────────────────────────────────────────────────────────────┤
+│ 5️⃣  QUERO DOCUMENTAÇÃO COMPLETA?                                │
+│    → Abra: README.md                                           │
+│    → Tudo sobre instalação, deploy e uso                       │
+└─────────────────────────────────────────────────────────────────┘
+
+═══════════════════════════════════════════════════════════════════
+
+⚡ TESTE RÁPIDO (Local - 5 minutos)
+
+  1. pip install streamlit pandas plotly selenium webdriver-manager
+  2. python dados_di.py
+  3. streamlit run app.py
+  4. Abra: http://localhost:8501
+
+═══════════════════════════════════════════════════════════════════
+
+☁️ DEPLOY GRATUITO (Streamlit Cloud - 2 minutos)
+
+  1. Crie conta em: https://streamlit.io/cloud (gratuito!)
+  2. Conecte com GitHub
+  3. Clique "New app"
+  4. Selecione seu repositório
+  5. Deploy! ✨
+
+  Resultado: https://seu-app.streamlit.app
+
+═══════════════════════════════════════════════════════════════════
+
+📁 ARQUIVOS PRINCIPAIS
+
+  ✅ app.py              → Aplicação Streamlit
+  ✅ dados_di.py         → Coleta de dados (B3)
+  ✅ requirements.txt    → Dependências
+
+  📚 INDEX.md            → COMECE POR AQUI
+  📚 QUICKSTART.md       → Guia rápido
+  📚 README.md           → Doc completa
+  📚 TUTORIAL_STREAMLIT_CLOUD.md → Deploy passo a passo
+
+═══════════════════════════════════════════════════════════════════
+
+🎨 FUNCIONALIDADES
+
+  📈 Visão Geral        → Comparação entre períodos
+  📊 Análise Detalhada  → Foco em período específico
+  🔥 Heatmap            → Matriz comparativa
+  📋 Dados Brutos       → Exportação e filtros
+  💾 Export CSV         → Download dos dados
+
+═══════════════════════════════════════════════════════════════════
+
+💡 DICAS
+
+  • Leia INDEX.md primeiro - é o mapa de todo o projeto
+  • Use Streamlit Cloud - é GRATUITO e super fácil
+  • Configure GitHub Actions para atualização automática
+  • Consulte CASOS_DE_USO.md para análises práticas
+
+═══════════════════════════════════════════════════════════════════
+
+🆘 PROBLEMAS COMUNS
+
+  ❌ "Module not found"
+     → pip install -r requirements.txt
+
+  ❌ "Chrome error"
+     → pip install --upgrade webdriver-manager
+
+  ❌ "Dados não aparecem"
+     → python dados_di.py (execute primeiro!)
+
+  ❌ Outros problemas
+     → Veja README.md seção Troubleshooting
+
+═══════════════════════════════════════════════════════════════════
+
+🔗 LINKS ÚTEIS
+
+  Streamlit Docs:  https://docs.streamlit.io
+  Streamlit Cloud: https://streamlit.io/cloud
+  Plotly Docs:     https://plotly.com/python/
+
+═══════════════════════════════════════════════════════════════════
+
+🚀 PRÓXIMO PASSO
+
+   👉 Abra o arquivo INDEX.md agora!
+   
+═══════════════════════════════════════════════════════════════════
+
+                     ✨ Boa sorte! ✨
+
